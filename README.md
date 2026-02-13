@@ -1,4 +1,6 @@
-This repository contains the full manuscript of *Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints (Protected Set Theory)*.
+This repository contains the full manuscript of *Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints (Protected Set Theory).*
+
+The work proposes a structural interpretation of moral emergence as pressure interaction and introduces the concept of a minimal fault-tolerant safety constraint ("Protected Set") applicable to AI systems.
 
 # Protected Set  
 ## Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints
