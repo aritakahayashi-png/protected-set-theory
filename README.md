@@ -1,3 +1,5 @@
+This repository contains the full manuscript of *Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints (Protected Set Theory)*.
+
 # Protected Set  
 ## Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints
 
