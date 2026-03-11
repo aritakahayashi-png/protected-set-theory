@@ -1,3 +1,9 @@
+This repository contains the extended manuscript of **Protected Set Theory**.
+
+The conceptual framework is published as a Zenodo preprint:
+
+https://doi.org/10.5281/zenodo.18949156
+
 This repository contains the full manuscript of *Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints (Protected Set Theory).*
 
 The work proposes a structural interpretation of moral emergence as pressure interaction and introduces the concept of a minimal fault-tolerant safety constraint ("Protected Set") applicable to AI systems.
