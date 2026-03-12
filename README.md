@@ -1,10 +1,11 @@
 This repository contains the extended manuscript of **Protected Set Theory**.
 
-The conceptual framework is published as a Zenodo preprint:
+The formal conceptual framework is published as a Zenodo preprint:
 
 https://doi.org/10.5281/zenodo.18949156
 
-This repository contains the full manuscript of *Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints (Protected Set Theory).*
+This repository provides the extended explanatory manuscript including
+the cognitive architecture and pressure-interaction model underlying the theory.
 
 The work proposes a structural interpretation of moral emergence as pressure interaction and introduces the concept of a minimal fault-tolerant safety constraint ("Protected Set") applicable to AI systems.
 
@@ -15,7 +16,9 @@ The work proposes a structural interpretation of moral emergence as pressure int
 
 ## Abstract
 
-This paper proposes a structural model for understanding the emergence of moral labeling (“good” and “evil”) in high-speed evaluation societies. Rather than treating morality as a product of deliberate ethical reasoning, we model it as a response to pressure gradients within layered cognitive and systemic architectures.
+This paper proposes a structural model for understanding the emergence of moral labeling (“good” and “evil”) in high-speed evaluation societies. Rather than treating morality as a product of deliberate ethical reasoning,
+this work models moral labeling as an emergent response to pressure gradients
+within layered cognitive and systemic architectures.
 
 Human cognition is described as a three-layer structure operating at different temporal scales: biological reflex, heuristic schema processing, and reflective narrative formation. By the time conscious moral judgment emerges, behavioral direction has already been established by lower layers reacting to environmental and structural pressures.
 
@@ -71,6 +74,10 @@ Where:
 This formulation is conceptual, not linear or strictly mathematical.  
 It represents interacting structural forces rather than a reducible equation.
 
+At the human behavioral level, pressure accumulation often originates from
+persistent dissatisfaction emerging from biological and social constraints.
+Anxiety increases cognitive computation cost, while dissatisfaction acts as
+a reservoir of stored social pressure that may later be released through action.
 ---
 
 ## 3. The Upward Correction Constant (U)
