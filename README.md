@@ -78,6 +78,21 @@ At the human behavioral level, pressure accumulation often originates from
 persistent dissatisfaction emerging from biological and social constraints.
 Anxiety increases cognitive computation cost, while dissatisfaction acts as
 a reservoir of stored social pressure that may later be released through action.
+
+### 2.5 Computational Shortcuts and U-Layer Amplification
+
+Human agents can be treated as bounded computational nodes operating under limited time, memory, and processing resources. Under uncertainty and pressure, they seek both computational materials (information, rules, narratives) and computational shortcuts.
+
+In this model, disagreement is costly. To negate a dominant interpretation requires additional computation, counter-evidence, alternative modeling, and social risk. By contrast, imitation and alignment are low-cost strategies. If no counter-vector is generated, social flow tends toward conformity.
+
+At the biological level, persistent dissatisfaction and anxiety function as primary pressure sources. Dissatisfaction acts as stored pressure, while anxiety increases cognitive computation cost. These pressures are then converted into interpretable narratives such as justice, duty, loyalty, threat, or hope.
+
+In this sense, U-layer constructs are not primary causes of action but meaning-wrappers applied to underlying pressure states. Collective amplification occurs when these narrative wrappers resonate through existing networks, increasing propagation speed and local pressure concentration.
+
+This suggests that social fracture is often produced not by explicit malice, but by low-cost conformity under amplified narrative pressure.
+
+Not all U-layer dynamics have the same structural effect. Small-scale U (for example, family attachment, friendship, and local solidarity) may stabilize individual behavior, while large-scale or rapidly propagating U (for example, mass moralization, ideological mobilization, or networked outrage) can function as a pressure amplifier.
+
 ---
 
 ## 3. The Upward Correction Constant (U)
