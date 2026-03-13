@@ -111,7 +111,7 @@ a reservoir of stored social pressure that may later be released through action.
 
 The interaction between pressure gradients, schema processing, and narrative amplification can be conceptually illustrated as follows:
 
-![Structural Model](figure_structure.png)
+![Structural Model](Figure 1 - Structural Interaction Model.png)
 
 ### 2.5 Computational Shortcuts and U-Layer Amplification
 
@@ -134,7 +134,7 @@ where agents operate under bounded cognition and rely on low-cost behavioral sho
 
 Under narrative amplification, accumulated pressures can synchronize social alignment and generate localized pressure concentration, eventually leading to structural fracture.
 
-![Pressure Amplification Cascade](figure_amplification.png)
+![Pressure Amplification Cascade](Figure 2 - Pressure Amplification Cascade.png)
 
 2.6 Social Viscosity (V)
 
@@ -227,7 +227,7 @@ The interaction between social viscosity (V) and social compressibility (C) can 
 
 High viscosity diffuses pressure across relational networks, while high compressibility condenses pressure rapidly under stress.
 
-![Stability Phase Diagram](figure_phase_diagram.png)
+![Stability Phase Diagram](Figure 3 - Stability Phase Relationship.png)
 
 ---
 
