@@ -134,7 +134,7 @@ where agents operate under bounded cognition and rely on low-cost behavioral sho
 
 Under narrative amplification, accumulated pressures can synchronize social alignment and generate localized pressure concentration, eventually leading to structural fracture.
 
-![Pressure Amplification Cascade](Figure 2 - Pressure Amplification Cascade.png)
+![Pressure Amplification Cascade](figure_amplification.png)
 
 2.6 Social Viscosity (V)
 
