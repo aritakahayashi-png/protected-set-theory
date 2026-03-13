@@ -92,7 +92,7 @@ Where:
 
 - ∇p — Pressure gradient (environmental, economic, algorithmic)
 - Pos — Positional vector (structural location of agent)
-- Time — Evaluation horizon (short-term vs long-term)
+- Time — evaluation horizon and diffusion duration (short-term vs long-term temporal scale of pressure processing and redistribution)
 - System — Boundary definition of protected group
 - Schema — Internalized cognitive encoding
 - U — Upward correction constant
@@ -216,7 +216,8 @@ By contrast, low-compressibility pressures may remain distributed for longer per
 
 Conceptually, fracture risk tends to increase when high pressure gradients, low social viscosity, and high compressibility interact:
 
-    Fracture Risk ∝ (∇p × C) / V
+    Fracture Risk ∝ (∇p × U × C) / V
+U and C jointly act as pressure amplification factors.
 
 This formulation is conceptual rather than strictly mathematical.
 Its purpose is to describe structural tendencies: fear-like pressures compress more rapidly than ordinary dissatisfaction, and therefore produce faster and more destructive local fracture events.
