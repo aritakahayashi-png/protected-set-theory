@@ -99,6 +99,12 @@ persistent dissatisfaction emerging from biological and social constraints.
 Anxiety increases cognitive computation cost, while dissatisfaction acts as
 a reservoir of stored social pressure that may later be released through action.
 
+### Structural Interaction Model
+
+The interaction between pressure gradients, schema processing, and narrative amplification can be conceptually illustrated as follows:
+
+![Structural Model](figure_structure.png)
+
 ### 2.5 Computational Shortcuts and U-Layer Amplification
 
 Human agents can be treated as bounded computational nodes operating under limited time, memory, and processing resources. Under uncertainty and pressure, they seek both computational materials (information, rules, narratives) and computational shortcuts.
