@@ -213,6 +213,14 @@ Conceptually, fracture risk tends to increase when high pressure gradients, low 
 This formulation is conceptual rather than strictly mathematical.
 Its purpose is to describe structural tendencies: fear-like pressures compress more rapidly than ordinary dissatisfaction, and therefore produce faster and more destructive local fracture events.
 
+### Stability Phase Relationship
+
+The interaction between social viscosity (V) and social compressibility (C) can be conceptually represented as a stability phase relationship.
+
+High viscosity diffuses pressure across relational networks, while high compressibility condenses pressure rapidly under stress.
+
+![Stability Phase Diagram](figure_phase_diagram.png)
+
 ---
 
 ## 3. The Upward Correction Constant (U)
