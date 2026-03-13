@@ -227,7 +227,7 @@ The interaction between social viscosity (V) and social compressibility (C) can 
 
 High viscosity diffuses pressure across relational networks, while high compressibility condenses pressure rapidly under stress.
 
-![Stability Phase Diagram](Figure 3 - Stability Phase Relationship.png)
+![Stability Phase Diagram](figure_phase.png)
 
 ---
 
