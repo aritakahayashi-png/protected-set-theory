@@ -93,6 +93,9 @@ This suggests that social fracture is often produced not by explicit malice, but
 
 Not all U-layer dynamics have the same structural effect. Small-scale U (for example, family attachment, friendship, and local solidarity) may stabilize individual behavior, while large-scale or rapidly propagating U (for example, mass moralization, ideological mobilization, or networked outrage) can function as a pressure amplifier.
 
+These dynamics can also be interpreted computationally,
+where agents operate under bounded cognition and rely on low-cost behavioral shortcuts.
+
 ---
 
 ## 3. The Upward Correction Constant (U)
