@@ -60,7 +60,7 @@ By the time moral judgment appears, direction has already been determined.
 
 Observed moral labeling can be conceptually expressed as:
 
-Behavioral_Label ← f(∇p, Pos, Time, System, Schema, U)
+Behavioral_Label ← f(∇p, Pos, Time, System, Schema, U, V, C)
 
 Where:
 
@@ -70,6 +70,8 @@ Where:
 - System — Boundary definition of protected group
 - Schema — Internalized cognitive encoding
 - U — Upward correction constant
+- V — Social viscosity (strength of persistent relational bonds)
+- C — Social compressibility (degree to which pressure rapidly condenses under stress)
 
 This formulation is conceptual, not linear or strictly mathematical.  
 It represents interacting structural forces rather than a reducible equation.
@@ -144,6 +146,42 @@ pressure gradients and social viscosity:
 
 This formulation remains conceptual rather than strictly mathematical,
 and is intended to describe structural tendencies rather than precise measurement.
+
+### 2.7 Social Compressibility (C)
+
+In addition to pressure gradients (∇p), social viscosity (V), and narrative amplification (U), fracture dynamics are also influenced by the compressibility of a given pressure state.
+
+We define:
+
+C — Social Compressibility
+
+Social compressibility represents the degree to which a pressure field can be rapidly condensed into localized intensity under stress.
+
+Highly compressible pressures do not merely accumulate; they contract, synchronize, and intensify, producing sharp local gradients over short time scales.
+
+Fear is a paradigmatic high-compressibility pressure.
+Under fear, agents reduce computation, shorten time horizons, and shift from reflective evaluation toward rapid alignment or reflexive reaction.
+
+Examples of high-compressibility conditions include:
+
+- collective fear
+- perceived external threat
+- panic under uncertainty
+- rapid moralized enemy formation
+- emergency-like group synchronization
+
+In high-compressibility environments:
+
+    High C → rapid pressure contraction → sharp local gradients → higher fracture probability
+
+By contrast, low-compressibility pressures may remain distributed for longer periods, allowing diffusion, delay, and adaptive redistribution.
+
+Conceptually, fracture risk tends to increase when high pressure gradients, low social viscosity, and high compressibility interact:
+
+    Fracture Risk ∝ (∇p × C) / V
+
+This formulation is conceptual rather than strictly mathematical.
+Its purpose is to describe structural tendencies: fear-like pressures compress more rapidly than ordinary dissatisfaction, and therefore produce faster and more destructive local fracture events.
 
 ---
 
