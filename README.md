@@ -122,6 +122,12 @@ Not all U-layer dynamics have the same structural effect. Small-scale U (for exa
 These dynamics can also be interpreted computationally,
 where agents operate under bounded cognition and rely on low-cost behavioral shortcuts.
 
+### Pressure Amplification Cascade
+
+Under narrative amplification, accumulated pressures can synchronize social alignment and generate localized pressure concentration, eventually leading to structural fracture.
+
+![Pressure Amplification Cascade](figure_amplification.png)
+
 2.6 Social Viscosity (V)
 
 In addition to pressure gradients (∇p) and cognitive schema dynamics,
