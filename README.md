@@ -34,6 +34,24 @@ Before it, all agents are equal.
 
 ---
 
+## Core Variables
+
+The structural model uses the following conceptual variables:
+
+∇p — Pressure gradient  
+Represents structural pressure differences across agents or groups.
+
+U — Upward correction constant  
+Narrative or motivational amplification that allows agents to act against pure entropic decline.
+
+V — Social viscosity  
+Strength and persistence of relational bonds that diffuse pressure across a network.
+
+C — Social compressibility  
+Degree to which social pressure can rapidly condense into localized intensity under stress.
+
+---
+
 ## 1. Cognitive Three-Layer Architecture
 
 Human behavioral emergence can be described as a three-layer processing system:
