@@ -96,6 +96,55 @@ Not all U-layer dynamics have the same structural effect. Small-scale U (for exa
 These dynamics can also be interpreted computationally,
 where agents operate under bounded cognition and rely on low-cost behavioral shortcuts.
 
+2.6 Social Viscosity (V)
+
+In addition to pressure gradients (∇p) and cognitive schema dynamics,
+system stability is strongly influenced by the presence of persistent relational structures.
+
+We define:
+
+V — Social Viscosity
+
+Social viscosity represents the strength and persistence of relational bonds
+that allow pressure to diffuse across a social network rather than concentrating
+at individual nodes.
+
+Examples of viscosity-generating structures include:
+
+- family relationships
+- long-term friendships
+- stable community membership
+- institutional trust
+- durable cooperative networks
+
+These structures introduce friction and delay into pressure transmission,
+allowing time for redistribution and stabilization.
+
+High viscosity environments tend to diffuse pressure:
+
+    High V → pressure diffusion → lower fracture probability
+
+Low viscosity environments allow pressure to accumulate locally:
+
+    Low V → pressure concentration → increased fracture probability
+
+This phenomenon is particularly observable in modern high-speed evaluation systems,
+where traditional long-term relational structures weaken while evaluation pressure increases.
+
+Short-lived collective dynamics such as those observed in social media systems
+may produce temporary amplification or synchronization of sentiment,
+but they generally lack the persistence required to function as true viscosity.
+
+Therefore, they often behave not as viscosity sources but as pressure amplifiers.
+
+Conceptually, system stability can be approximated as a relationship between
+pressure gradients and social viscosity:
+
+    Stability ∝ V / ∇p
+
+This formulation remains conceptual rather than strictly mathematical,
+and is intended to describe structural tendencies rather than precise measurement.
+
 ---
 
 ## 3. The Upward Correction Constant (U)
