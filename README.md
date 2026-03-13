@@ -229,6 +229,14 @@ High viscosity diffuses pressure across relational networks, while high compress
 
 ![Stability Phase Diagram](figure_phase.png)
 
+### Pressure Reservoir Model
+
+Social systems can be interpreted as pressure reservoirs in which accumulated pressures interact with amplification, diffusion, and compression mechanisms.
+
+Narrative amplification (U), social viscosity (V), and social compressibility (C) determine whether pressures diffuse into stability or concentrate toward structural fracture.
+
+![Pressure Reservoir Model](figure_pressure_reservoir.png)
+
 ---
 
 ## 3. The Upward Correction Constant (U)
