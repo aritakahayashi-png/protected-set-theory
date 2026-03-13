@@ -187,7 +187,7 @@ Its purpose is to describe structural tendencies: fear-like pressures compress m
 
 ## 3. The Upward Correction Constant (U)
 
-Humans do not operate under strict physical calculation.  
+Human behavior does not operate under strict physical calculation.  
 Motivation requires upward bias relative to objective entropy.
 
 This upward correction allows:
