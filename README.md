@@ -111,7 +111,7 @@ a reservoir of stored social pressure that may later be released through action.
 
 The interaction between pressure gradients, schema processing, and narrative amplification can be conceptually illustrated as follows:
 
-![Structural Interaction Model](Figure 1 - Structural Interaction Model.png)
+![Structural Interaction Model](figure_structure.png)
 
 ### 2.5 Computational Shortcuts and U-Layer Amplification
 
