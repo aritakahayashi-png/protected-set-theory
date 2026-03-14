@@ -180,7 +180,7 @@ Therefore, they often behave not as viscosity sources but as pressure amplifiers
 Conceptually, system stability can be approximated as a relationship between
 pressure gradients and social viscosity:
 
-    Stability ∝ V / ∇p
+    Stability∝V/(∇p×C)
 
 This formulation remains conceptual rather than strictly mathematical,
 and is intended to describe structural tendencies rather than precise measurement.
@@ -216,7 +216,7 @@ By contrast, low-compressibility pressures may remain distributed for longer per
 
 Conceptually, fracture risk tends to increase when high pressure gradients, low social viscosity, and high compressibility interact:
 
-    Fracture Risk ∝ (∇p × U × C) / V
+    Fracture Risk≈(∇p(Uni)×U×C)/V
 U and C jointly act as pressure amplification factors.
 
 This formulation is conceptual rather than strictly mathematical.
