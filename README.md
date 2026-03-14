@@ -185,6 +185,93 @@ pressure gradients and social viscosity:
 This formulation remains conceptual rather than strictly mathematical,
 and is intended to describe structural tendencies rather than precise measurement.
 
+### 2.X Decomposition of Social Viscosity (V)
+
+In the conceptual model presented here, social viscosity ($V$) represents the structural friction that diffuses pressure gradients across a social system.
+
+However, this viscosity does not originate from a single source.  
+Instead, it emerges from multiple layers of damping mechanisms operating at different scales of human systems.
+
+Conceptually, social viscosity can be decomposed into three primary components:
+
+$$
+V = V_{bio} + V_{rel} + V_{struct}
+$$
+
+Where:
+
+**$V_{bio}$ — Biological Viscosity**
+
+Biological viscosity arises from inherent physiological limitations of human agents.
+
+Examples include:
+
+- fatigue  
+- sleep cycles  
+- metabolic limits  
+- attention depletion  
+- cognitive exhaustion  
+
+These biological constraints impose a minimum level of damping in all human social systems.
+
+This lower bound corresponds to the biological viscosity limit:
+
+$$
+V \ge V_{min}
+$$
+
+Even under highly accelerated social conditions, human agents cannot sustain unlimited evaluation or action cycles.
+
+---
+
+**$V_{rel}$ — Relational Viscosity**
+
+Relational viscosity emerges from persistent interpersonal bonds that resist rapid behavioral shifts.
+
+Examples include:
+
+- family attachment  
+- long-term friendships  
+- local community membership  
+- trust networks  
+- durable cooperative relationships  
+
+These relational structures slow pressure transmission by introducing loyalty, empathy, and hesitation in decision processes.
+
+Such bonds often act as stabilizing buffers against rapid collective synchronization.
+
+---
+
+**$V_{struct}$ — Structural Viscosity**
+
+Structural viscosity is produced by institutional and systemic constraints embedded in social organization.
+
+Examples include:
+
+- legal systems  
+- bureaucratic procedures  
+- governance institutions  
+- infrastructure dependencies  
+- organizational hierarchies  
+
+These mechanisms introduce procedural delay and friction that prevent instantaneous propagation of pressure signals across systems.
+
+---
+
+### Interaction of Viscosity Layers
+
+These three components operate simultaneously across different levels of the social system:
+
+- **$V_{bio}$** provides a universal baseline of damping rooted in human physiology.
+- **$V_{rel}$** stabilizes local networks through interpersonal commitments.
+- **$V_{struct}$** stabilizes large-scale systems through institutional constraints.
+
+When multiple viscosity layers weaken simultaneously—such as through digital acceleration, institutional erosion, or social atomization—the effective viscosity $V$ decreases, allowing pressure gradients to concentrate more rapidly.
+
+This reduction in viscosity increases the probability of structural fracture as defined in the pressure interaction model.
+
+Thus, maintaining sufficient viscosity across these layers is critical for long-term systemic stability.
+
 ### 2.7 Social Compressibility (C)
 
 In addition to pressure gradients (∇p), social viscosity (V), and narrative amplification (U), fracture dynamics are also influenced by the compressibility of a given pressure state.
