@@ -254,26 +254,7 @@ This recalculation requires significant cognitive resources.
 
 Therefore, pressure can be approximated as:
 
-∇
-𝑝
-∝
-𝑈
-𝑛
-𝑝
-𝑟
-𝑒
-𝑑
-𝑖
-𝑐
-𝑡
-𝑎
-𝑏
-𝑖
-𝑙
-𝑖
-𝑡
-𝑦
-∇p∝Unpredictability
+$\nabla p \propto Unpredictability$
 
 Where unpredictability forces:
 
@@ -384,16 +365,7 @@ sleep cycles
 
 Therefore, in computational terms:
 
-𝑉
-𝐴
-𝐼
-→
-0
-V
-AI
-	​
-
-→0
+V_AI ≈ 0
 
 This creates a new systemic risk.
 
