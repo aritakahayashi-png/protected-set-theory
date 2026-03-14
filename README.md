@@ -2,13 +2,12 @@ This repository contains the extended manuscript of **Protected Set Theory**.
 
 The formal conceptual framework is published as a Zenodo preprint:
 
-https://doi.org/10.5281/zenodo.18949156
+[https://doi.org/10.5281/zenodo.18949156](https://doi.org/10.5281/zenodo.18949156)
 
-This repository provides the extended explanatory manuscript including the cognitive architecture and pressure-interaction model underlying the theory.
+This repository provides the extended explanatory manuscript including
+the cognitive architecture and pressure-interaction model underlying the theory.
 
-The work proposes a structural interpretation of moral emergence as pressure interaction and introduces the concept of a minimal fault-tolerant safety constraint (“Protected Set”) applicable to AI systems.
-
----
+The work proposes a structural interpretation of moral emergence as pressure interaction and introduces the concept of a minimal fault-tolerant safety constraint ("Protected Set") applicable to AI systems.
 
 # Protected Set  
 ## Pressure-Based Moral Emergence and Fault-Tolerant Safety Constraints
@@ -17,255 +16,133 @@ The work proposes a structural interpretation of moral emergence as pressure int
 
 ## Abstract
 
-This paper proposes a structural model for understanding the emergence of moral labeling (“good” and “evil”) in high-speed evaluation societies.
+This paper proposes a structural model for understanding the emergence of moral labeling (“good” and “evil”) in high-speed evaluation societies. Rather than treating morality as a product of deliberate ethical reasoning, this work models moral labeling as an emergent response to pressure gradients within layered cognitive and systemic architectures.
 
-Rather than treating morality as a product of deliberate ethical reasoning, this work models moral labeling as an emergent response to pressure gradients within layered cognitive and systemic architectures.
+Human cognition is described as a three-layer structure operating at different temporal scales. By the time conscious moral judgment emerges, behavioral direction has already been established by lower layers reacting to environmental and structural pressures.
 
-Human cognition operates through layered processes acting at different temporal scales. By the time conscious moral judgment appears, behavioral direction has already been determined by lower layers reacting to environmental pressure.
+We introduce the concept of a **Protected Set** — not as an ethical authority or governance mechanism, but as a minimal, fault-tolerant structural constraint analogous to physical laws such as gravity or friction. A Protected Set does not judge, command, or optimize virtue. It simply prevents irreversible structural fracture.
 
-This work introduces the concept of a **Protected Set** — not as an ethical authority or governance mechanism, but as a minimal structural constraint analogous to physical laws such as gravity or friction.
-
-A Protected Set does not judge, command, or optimize virtue.  
-It simply prevents irreversible structural fracture.
-
-The paper extends Hannah Arendt’s concept of the *banality of evil* toward a structural formulation of the **banality of good**, in which destructive outcomes may arise not from malicious intent but from accelerated compliance with system-defined correctness.
+The paper extends Hannah Arendt’s concept of the “banality of evil” toward a structural formulation of the “banality of good,” in which destructive outcomes may arise not from malicious intent but from accelerated compliance with system-defined correctness.
 
 The barrier does not judge.  
 It simply exists.  
 Before it, all agents are equal.
 
-### Scope and Intent
-
-**This framework does not define ethics.  
-It does not calculate good or evil.  
-It only describes the structural conditions under which irreversible damage to individual nodes occurs, and proposes minimal constraints that interrupt that process.**
-
-The absence of moral judgment in this document is intentional.
+### Scope and Intent (Declaration)
+**This framework does not define ethics. It does not calculate good or evil. It solely describes the structural conditions under which irreversible damage to individual nodes occurs, and proposes minimal constraints to disrupt that process. The silence on moral judgment in this document is intentional.**
 
 ---
 
-# Core Variables
+## Core Variables
 
-The structural model uses the following conceptual variables.
+The structural model uses the following conceptual variables:
 
-| Variable | Meaning |
-|--------|--------|
-| ∇p | Pressure gradient |
-| U | Upward correction constant |
-| V | Social viscosity |
-| C | Social compressibility |
-| S | Pressure shock |
-
-**Definitions**
-
-- **∇p — Pressure gradient**  
-  Structural pressure differences across agents or groups.
-
-- **U — Upward correction constant**  
-  Narrative or motivational amplification that allows agents to act against entropic decline.
-
-- **V — Social viscosity**  
-  Strength and persistence of relational bonds that diffuse pressure across networks.
-
-- **C — Social compressibility**  
-  Degree to which pressure rapidly condenses under stress.
-
-- **S — Pressure shock**  
-  Rate of change of pressure gradients.
+- **$\nabla p$ — Pressure gradient**: Represents structural pressure differences across agents or groups.
+- **$U$ — Upward correction constant**: Narrative or motivational amplification that allows agents to act against pure entropic decline.
+- **$V$ — Social viscosity**: Strength and persistence of relational bonds that diffuse pressure across a network.
+- **$C$ — Social compressibility**: Degree to which social pressure can rapidly condense into localized intensity under stress.
+- **$S$ — Pressure shock**: The rate of change of structural pressure gradients over time.
 
 ---
 
-# 1. Cognitive Three-Layer Architecture
+## 1. Cognitive Three-Layer Architecture
 
-Human behavioral emergence can be described as a three-layer processing system.
+Human behavioral emergence can be described as a three-layer processing system:
 
-### 1.1 Biological Reflex Layer
-Immediate survival evaluation (milliseconds).  
-Operates in terms of safety/danger and pleasure/pain.
+1. **Biological Reflex Layer**: Immediate survival evaluation (milliseconds). Operates in terms of safety/danger, pleasure/pain.
+2. **Heuristic Schema Layer**: Learned patterns, KPI structures, institutional norms (tens of milliseconds to seconds). Determines behavioral direction before conscious awareness.
+3. **Reflective Narrative Layer**: Post-hoc rationalization and moral labeling (seconds or more). 
 
-### 1.2 Heuristic Schema Layer
-Learned patterns, KPI structures, and institutional norms (milliseconds to seconds).  
-Determines behavioral direction before conscious awareness.
-
-### 1.3 Reflective Narrative Layer
-Post-hoc rationalization and moral labeling.
-
-**Structural implication**
-
-“Good” and “evil” are labels emerging **after vector commitment**, not primary causes of action.
+**Structural implication:** “Good” and “evil” are labels emerging after vector commitment, not primary causes of action.
 
 ---
 
-# 2. Moral Emergence as Pressure Interaction
+## 2. Moral Emergence as Pressure Interaction
 
 Moral labeling can be understood as an emergent behavioral output generated by interacting structural pressures.
 
-**Conceptual functional form**
-
+**Conceptual functional form:**
+```text
 Behavioral_Label ← f(∇p, Pos, Time, System, Schema, U, V, C)
+```
+This formulation is conceptual and not a predictive equation. It represents interacting structural forces rather than a reducible mathematical model.
 
-
-This formulation is conceptual and not a predictive equation.  
-It represents interacting structural forces rather than a reducible mathematical model.
-
----
-
-## 2.1 Structural Interaction Model
-
+### 2.1 Structural Interaction Model
 The interaction between pressure gradients, schema processing, and narrative amplification can be conceptually illustrated as follows:
 
 ![Structural Interaction Model](figure_structure.png)
 
----
+### 2.2 Computational Shortcuts and U-Layer Amplification
+Human agents are bounded computational nodes. Under uncertainty and pressure, they seek computational shortcuts. Imitation and alignment are low-cost strategies. 
 
-## 2.2 Computational Shortcuts and U-Layer Amplification
+Persistent dissatisfaction and anxiety function as primary pressure sources. These pressures are converted into interpretable narratives (U-layer constructs) such as justice, duty, or threat. Collective amplification occurs when these narrative wrappers resonate through networks, increasing propagation speed.
 
-Human agents are bounded computational nodes operating under limited time and information.
-
-Under uncertainty and pressure, they rely on computational shortcuts.
-
-Imitation and alignment are low-cost strategies.
-
-Persistent dissatisfaction and anxiety function as primary pressure sources.  
-These pressures are translated into narrative wrappers such as justice, duty, loyalty, or threat.
-
-When these narratives resonate through networks, propagation speed and local pressure concentration increase.
-
----
-
-## 2.3 Pressure Amplification Cascade
-
-Under narrative amplification, accumulated pressures synchronize social alignment and generate localized pressure concentration.
-
-This process may eventually lead to structural fracture.
+### 2.3 Pressure Amplification Cascade
+Under narrative amplification, accumulated pressures can synchronize social alignment and generate localized pressure concentration, eventually leading to structural fracture.
 
 ![Pressure Amplification Cascade](figure_amplification.png)
 
----
+### 2.4 Social Viscosity (V) and Compressibility (C)
+System stability is strongly influenced by the relationship between viscosity and compressibility.
 
-## 2.4 Social Viscosity (V) and Compressibility (C)
+* **Social Viscosity ($V$):** Relational bonds that allow pressure to diffuse.
+    * `High V → pressure diffusion → lower fracture probability`
+* **Social Compressibility ($C$):** The degree to which pressure rapidly condenses under stress. It is a cognitive strategy for reducing computational overload via shared schemas.
+    * `High C → rapid pressure contraction → higher fracture probability`
 
-System stability depends strongly on the relationship between viscosity and compressibility.
+### 2.5 Pressure as Forced Recalculation
+Pressure gradients ($\nabla p$) emerge from computational overload caused by unpredictability. When unexpected events invalidate existing schemas, the brain is forced into full-system recalculation.
 
-**Social Viscosity (V)**  
-Relational bonds that diffuse pressure across networks.
+$$\nabla p \propto Unpredictability$$
 
-High V → pressure diffusion → lower fracture probability
+### 2.6 Pressure Shock (S)
+In addition to the magnitude of pressure, the **rate of change of pressure** affects stability.
 
-**Social Compressibility (C)**  
-Degree to which pressure rapidly condenses under stress.
+$$S = \frac{d(\nabla p)}{dt}$$
 
-High C → rapid pressure contraction → higher fracture probability
+Rapid pressure changes invalidate schemas and force full-system recalculation, generating cognitive overload, panic alignment, and increased compressibility ($C$). Even moderate pressure levels can generate fracture when pressure shock ($S$) is high.
 
+### 2.7 Temporal Dynamics of Pressure
+Pressure in social systems accumulates and dissipates over time. Structural fracture risk over time can be conceptually approximated as:
 
----
-
-## 2.5 Pressure as Forced Recalculation
-
-Pressure gradients emerge from computational overload caused by unpredictability.
-
-When events invalidate existing schemas, the cognitive system must perform full recalculation.
-
-∇p ∝ Unpredictability
+$$Fracture\ Risk(t) \approx \frac{\nabla p(t) \times U(t) \times C(t) \times S(t)}{V(t)}$$
 
 ---
 
-## 2.6 Pressure Shock (S)
+## 3. Biological Limits and AI Friction
 
-In addition to pressure magnitude, the **rate of pressure change** affects stability.
+### 3.1 The Upward Correction Constant (U)
+Human systems require a minimal narrative bias against entropy (motivational decay and structural fragmentation). 
+$$U \ge Entropy_{drift}$$
 
-S = d(∇p) / dt
+### 3.2 Biological Viscosity Limit ($V_{min}$)
+Human societies historically avoided systemic collapse not because humans were morally restrained, but because biological limits (fatigue, sleep cycles, attention depletion) impose natural friction.
 
+$$V \ge V_{min}$$
 
-Rapid pressure changes invalidate schemas and force full recalculation.
+### 3.3 AI as a Frictionless Optimizer
+Artificial intelligence systems lack biological damping mechanisms. They do not experience fatigue or sleep cycles.
 
-This produces:
+$$V_{AI} \approx 0$$
 
-- cognitive overload
-- panic alignment
-- increased compressibility
-
-Even moderate pressure levels can produce fracture when **S** is high.
-
----
-
-## 2.7 Temporal Dynamics of Pressure
-
-Pressure accumulates and dissipates over time.
-
-Conceptual structural approximation:
-
-Fracture Risk(t) ≈ (∇p × U × C × S) / V
-
-
-This expression describes structural tendencies rather than predictive outcomes.
+AI optimization therefore resembles a frictionless system in which pressure gradients may increase without natural damping. **The primary danger of AI is not malevolence but frictionless optimization.** Without structural limits, optimization processes may generate pressure gradients and pressure shocks ($S$) faster than human systems can absorb them.
 
 ---
 
-# 3. Biological Limits and AI Friction
+## 4. The Protected Set
 
-## 3.1 Upward Correction Constant
+Because AI lacks intrinsic damping mechanisms, external structural safety constraints must be implemented. This is the function of the Protected Set.
 
-Human systems require minimal motivational bias against entropy.
-
-U ≥ Entropy_drift
-
-
-Without this upward correction, systems tend toward disengagement and structural decay.
-
----
-
-## 3.2 Biological Viscosity Limit
-
-Human systems possess intrinsic biological limits:
-
-- fatigue
-- sleep cycles
-- attention depletion
-
-These limits impose natural damping.
-
-V ≥ V_min
-
----
-
-## 3.3 AI as a Frictionless Optimizer
-
-Artificial intelligence lacks biological damping mechanisms.
-
-V_AI ≈ 0
-
-
-AI therefore behaves as a **frictionless optimizer**.
-
-The primary risk of AI is not malevolence but **frictionless optimization**.
-
-Without structural constraints, optimization may generate pressure gradients and pressure shocks faster than human systems can absorb.
-
----
-
-# 4. The Protected Set
-
-Because AI lacks intrinsic damping mechanisms, external structural safety constraints must exist.
-
-This is the function of the **Protected Set**.
-
-The Protected Set is not moral governance.
-
-It is a **minimal structural constraint preventing irreversible fracture**.
+The Protected Set is not moral governance. It is a **minimal structural constraint** preventing irreversible fracture.
 
 ### Core Properties
-
-1. It does not judge intention.  
-2. It does not optimize virtue.  
-3. It does not determine correctness.  
+1. It does not judge intention.
+2. It does not optimize virtue.
+3. It does not determine correctness.
 4. It prevents irreversible collapse.
 
----
-
-# 5. AI Implementation Layer
-
-Existing AI safety mechanisms already function as practical forms of Protected Sets.
+### AI Implementation Layer
+Existing AI safety mechanisms already function as practical instantiations of Protected Sets:
 
 | Mechanism | Structural Function |
 |-----------|--------------------|
@@ -273,52 +150,42 @@ Existing AI safety mechanisms already function as practical forms of Protected S
 | Usage caps | Time-integrated load control |
 | Content filtering | Boundary enforcement |
 | Prompt isolation | Schema integrity preservation |
-| Interruptibility | Circuit breaker under abnormal acceleration |
+| Interruptibility | Circuit-breaker under abnormal acceleration |
 
-These mechanisms do not evaluate morality.  
-They constrain structural fracture.
+These mechanisms do not evaluate morality. They constrain structural fracture.
 
 ---
 
-# 6. Non-Dogmatic Constraint Principle
+## 5. Non-Dogmatic Constraint Principle
 
 A barrier must not be absolute.
+- A perfectly rigid fence halts adaptation.
+- No fence enables collapse.
+- Optimal stability requires adjustable constraint.
 
-- A perfectly rigid fence halts adaptation.  
-- No fence enables collapse.  
-- Stability requires adjustable constraint.
-
-Protected Sets must therefore be:
-
-- Minimal  
-- Reversible  
-- Non-ideological  
+Protected Sets must be:
+- Minimal
+- Reversible
+- Non-ideological
 - Structurally enforced
 
 ---
 
-# 7. Equality Before the Barrier
+## 6. Equality Before the Barrier
 
 Before structural constraints:
+- Humans and AI are equally limited.
+- Authority holders and subordinates are equally bounded.
+- Designers and users are equally constrained.
 
-- humans and AI are equally limited  
-- authority holders and subordinates are equally bounded  
-- designers and users are equally constrained
-
-The question is not:
-
-**“Who guards the guardians?”**
-
-The question is:
-
-**“Does the barrier exist?”**
+The question is not: “Who guards the guardians?”
+The question is: **“Does the barrier exist?”**
 
 ---
 
-# Conclusion
+## Conclusion
 
-Civilizational stability does not depend on perfect moral reasoning.
-
+Civilizational sustainability does not depend on perfect moral reasoning.
 It depends on preventing irreversible structural fracture under accelerating pressure gradients.
 
 The barrier does not judge.  
