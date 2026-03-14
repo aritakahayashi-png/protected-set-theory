@@ -2,7 +2,7 @@ This repository contains the extended manuscript of **Protected Set Theory**.
 
 The formal conceptual framework is published as a Zenodo preprint:
 
-https://doi.org/10.5281/zenodo.18949156
+[https://doi.org/10.5281/zenodo.18949156](https://doi.org/10.5281/zenodo.18949156)
 
 This repository provides the extended explanatory manuscript including
 the cognitive architecture and pressure-interaction model underlying the theory.
@@ -16,15 +16,11 @@ The work proposes a structural interpretation of moral emergence as pressure int
 
 ## Abstract
 
-This paper proposes a structural model for understanding the emergence of moral labeling (“good” and “evil”) in high-speed evaluation societies. Rather than treating morality as a product of deliberate ethical reasoning,
-this work models moral labeling as an emergent response to pressure gradients
-within layered cognitive and systemic architectures.
+This paper proposes a structural model for understanding the emergence of moral labeling (“good” and “evil”) in high-speed evaluation societies. Rather than treating morality as a product of deliberate ethical reasoning, this work models moral labeling as an emergent response to pressure gradients within layered cognitive and systemic architectures.
 
-Human cognition is described as a three-layer structure operating at different temporal scales: biological reflex, heuristic schema processing, and reflective narrative formation. By the time conscious moral judgment emerges, behavioral direction has already been established by lower layers reacting to environmental and structural pressures.
+Human cognition is described as a three-layer structure operating at different temporal scales. By the time conscious moral judgment emerges, behavioral direction has already been established by lower layers reacting to environmental and structural pressures.
 
 We introduce the concept of a **Protected Set** — not as an ethical authority or governance mechanism, but as a minimal, fault-tolerant structural constraint analogous to physical laws such as gravity or friction. A Protected Set does not judge, command, or optimize virtue. It simply prevents irreversible structural fracture.
-
-Existing AI safety mechanisms — including rate limiting, content filtering, constitutional constraints, and prompt isolation — can be interpreted as practical instantiations of such structural constraints.
 
 The paper extends Hannah Arendt’s concept of the “banality of evil” toward a structural formulation of the “banality of good,” in which destructive outcomes may arise not from malicious intent but from accelerated compliance with system-defined correctness.
 
@@ -32,9 +28,8 @@ The barrier does not judge.
 It simply exists.  
 Before it, all agents are equal.
 
-Scope note:
-This framework is conceptual and structural rather than predictive.
-It describes interaction tendencies among social pressures rather than deterministic outcomes.
+### Scope and Intent (Declaration)
+**This framework does not define ethics. It does not calculate good or evil. It solely describes the structural conditions under which irreversible damage to individual nodes occurs, and proposes minimal constraints to disrupt that process. The silence on moral judgment in this document is intentional.**
 
 ---
 
@@ -42,13 +37,11 @@ It describes interaction tendencies among social pressures rather than determini
 
 The structural model uses the following conceptual variables:
 
-**∇p — Pressure gradient** Represents structural pressure differences across agents or groups.
-
-**U — Upward correction constant** Narrative or motivational amplification that allows agents to act against pure entropic decline.
-
-**V — Social viscosity** Strength and persistence of relational bonds that diffuse pressure across a network.
-
-**C — Social compressibility** Degree to which social pressure can rapidly condense into localized intensity under stress.
+- **$\nabla p$ — Pressure gradient**: Represents structural pressure differences across agents or groups.
+- **$U$ — Upward correction constant**: Narrative or motivational amplification that allows agents to act against pure entropic decline.
+- **$V$ — Social viscosity**: Strength and persistence of relational bonds that diffuse pressure across a network.
+- **$C$ — Social compressibility**: Degree to which social pressure can rapidly condense into localized intensity under stress.
+- **$S$ — Pressure shock**: The rate of change of structural pressure gradients over time.
 
 ---
 
@@ -56,18 +49,9 @@ The structural model uses the following conceptual variables:
 
 Human behavioral emergence can be described as a three-layer processing system:
 
-### 1.1 Biological Reflex Layer
-Immediate survival evaluation (milliseconds).  
-Operates in terms of safety/danger, pleasure/pain, threat/belonging.
-
-### 1.2 Heuristic Schema Layer
-Learned patterns, cultural encoding, KPI structures, institutional norms.  
-Operates in tens of milliseconds to seconds.  
-Determines behavioral direction before conscious awareness.
-
-### 1.3 Reflective Narrative Layer
-Post-hoc rationalization and moral labeling (seconds or more).  
-By the time moral judgment appears, direction has already been determined.
+1. **Biological Reflex Layer**: Immediate survival evaluation (milliseconds). Operates in terms of safety/danger, pleasure/pain.
+2. **Heuristic Schema Layer**: Learned patterns, KPI structures, institutional norms (tens of milliseconds to seconds). Determines behavioral direction before conscious awareness.
+3. **Reflective Narrative Layer**: Post-hoc rationalization and moral labeling (seconds or more). 
 
 **Structural implication:** “Good” and “evil” are labels emerging after vector commitment, not primary causes of action.
 
@@ -75,428 +59,97 @@ By the time moral judgment appears, direction has already been determined.
 
 ## 2. Moral Emergence as Pressure Interaction
 
-Conceptual interpretation:
-
-Moral labeling can be understood as an emergent behavioral output generated by interacting structural pressures rather than as the result of primary ethical reasoning.
-
-Observed moral labeling can be conceptually expressed as:
+Moral labeling can be understood as an emergent behavioral output generated by interacting structural pressures.
 
 **Conceptual functional form:**
 ```text
 Behavioral_Label ← f(∇p, Pos, Time, System, Schema, U, V, C)
 ```
-
-Where:
-
-- **∇p** — Pressure gradient (environmental, economic, algorithmic)
-- **Pos** — Positional vector (structural location of agent)
-- **Time** — evaluation horizon and diffusion duration
-- **System** — boundary definition of protected group
-- **Schema** — internalized cognitive encoding
-- **U** — upward correction constant
-- **V** — social viscosity
-- **C** — social compressibility
-
-This formulation is conceptual and not a predictive equation.  
-It represents interacting structural forces rather than a reducible mathematical model.
-
-At the human behavioral level, pressure accumulation often originates from persistent dissatisfaction emerging from biological and social constraints. Anxiety increases cognitive computation cost, while dissatisfaction acts as a reservoir of stored social pressure that may later be released through action.
+This formulation is conceptual and not a predictive equation. It represents interacting structural forces rather than a reducible mathematical model.
 
 ### 2.1 Structural Interaction Model
-
 The interaction between pressure gradients, schema processing, and narrative amplification can be conceptually illustrated as follows:
 
 ![Structural Interaction Model](figure_structure.png)
 
 ### 2.2 Computational Shortcuts and U-Layer Amplification
+Human agents are bounded computational nodes. Under uncertainty and pressure, they seek computational shortcuts. Imitation and alignment are low-cost strategies. 
 
-Human agents can be treated as bounded computational nodes operating under limited time, memory, and processing resources. Under uncertainty and pressure, they seek both computational materials (information, rules, narratives) and computational shortcuts.
-
-In this model, disagreement is costly. To negate a dominant interpretation requires additional computation, counter-evidence, alternative modeling, and social risk. By contrast, imitation and alignment are low-cost strategies. If no counter-vector is generated, social flow tends toward conformity.
-
-At the biological level, persistent dissatisfaction and anxiety function as primary pressure sources. Dissatisfaction acts as stored pressure, while anxiety increases cognitive computation cost. These pressures are then converted into interpretable narratives such as justice, duty, loyalty, threat, or hope.
-
-In this sense, U-layer constructs are not primary causes of action but meaning-wrappers applied to underlying pressure states. Collective amplification occurs when these narrative wrappers resonate through existing networks, increasing propagation speed and local pressure concentration.
-
-This suggests that social fracture is often produced not by explicit malice, but by low-cost conformity under amplified narrative pressure.
-
-Not all U-layer dynamics have the same structural effect. Small-scale U (for example, family attachment, friendship, and local solidarity) may stabilize individual behavior, while large-scale or rapidly propagating U (for example, mass moralization, ideological mobilization, or networked outrage) can function as a pressure amplifier.
-
-These dynamics can also be interpreted computationally,
-where agents operate under bounded cognition and rely on low-cost behavioral shortcuts.
+Persistent dissatisfaction and anxiety function as primary pressure sources. These pressures are converted into interpretable narratives (U-layer constructs) such as justice, duty, or threat. Collective amplification occurs when these narrative wrappers resonate through networks, increasing propagation speed.
 
 ### 2.3 Pressure Amplification Cascade
-
 Under narrative amplification, accumulated pressures can synchronize social alignment and generate localized pressure concentration, eventually leading to structural fracture.
 
 ![Pressure Amplification Cascade](figure_amplification.png)
 
-### 2.4 Social Viscosity (V)
+### 2.4 Social Viscosity (V) and Compressibility (C)
+System stability is strongly influenced by the relationship between viscosity and compressibility.
 
-In addition to pressure gradients (∇p) and cognitive schema dynamics,
-system stability is strongly influenced by the presence of persistent relational structures.
-
-We define:
-
-**V — Social Viscosity**
-
-Social viscosity represents the strength and persistence of relational bonds
-that allow pressure to diffuse across a social network rather than concentrating
-at individual nodes.
-
-Examples of viscosity-generating structures include:
-
-- family relationships
-- long-term friendships
-- stable community membership
-- institutional trust
-- durable cooperative networks
-
-These structures introduce friction and delay into pressure transmission,
-allowing time for redistribution and stabilization.
-
-High viscosity environments tend to diffuse pressure:
-
-    High V → pressure diffusion → lower fracture probability
-
-Low viscosity environments allow pressure to accumulate locally:
-
-    Low V → pressure concentration → increased fracture probability
-
-This phenomenon is particularly observable in modern high-speed evaluation systems, where traditional long-term relational structures weaken while evaluation pressure increases.
-
-Short-lived collective dynamics such as those observed in social media systems may produce temporary amplification or synchronization of sentiment, but they generally lack the persistence required to function as true viscosity.
-
-Therefore, they often behave not as viscosity sources but as pressure amplifiers.
-
-**Conceptual qualitative tendency:**
-```text
-System Stability ∝ V / (∇p · C)
-```
-Higher viscosity diffuses pressure across relational networks, while higher compressibility concentrates pressure rapidly under stress.
-
-### 2.5 Decomposition of Social Viscosity (V)
-
-In the conceptual model presented here, social viscosity ($V$) represents the structural friction that diffuses pressure gradients across a social system.
-
-However, this viscosity does not originate from a single source.  
-Instead, it emerges from multiple layers of damping mechanisms operating at different scales of human systems.
-
-Conceptually, social viscosity can be decomposed into three primary components:
-
-$$
-V = V_{bio} + V_{rel} + V_{struct}
-$$
-
-Where:
-
-**$V_{bio}$ — Biological Viscosity**
-Biological viscosity arises from inherent physiological limitations of human agents.
-Examples include: fatigue, sleep cycles, metabolic limits, attention depletion, cognitive exhaustion.
-These biological constraints impose a minimum level of damping in all human social systems.
-
-**$V_{rel}$ — Relational Viscosity**
-Relational viscosity emerges from persistent interpersonal bonds that resist rapid behavioral shifts.
-Examples include: family attachment, long-term friendships, local community membership, trust networks, durable cooperative relationships.
-These relational structures slow pressure transmission by introducing loyalty, empathy, and hesitation in decision processes.
-
-**$V_{struct}$ — Structural Viscosity**
-Structural viscosity is produced by institutional and systemic constraints embedded in social organization.
-Examples include: legal systems, bureaucratic procedures, governance institutions, infrastructure dependencies, organizational hierarchies.
-These mechanisms introduce procedural delay and friction that prevent instantaneous propagation of pressure signals across systems.
-
-### 2.6 Social Compressibility (C)
-
-In addition to pressure gradients (∇p), social viscosity (V), and narrative amplification (U), fracture dynamics are also influenced by the compressibility of a given pressure state.
-
-We define:
-
-**C — Social Compressibility**
-
-Social compressibility represents the degree to which a pressure field can be rapidly condensed into localized intensity under stress.
-
-Highly compressible pressures do not merely accumulate; they contract, synchronize, and intensify, producing sharp local gradients over short time scales.
-
-Fear is a paradigmatic high-compressibility pressure.
-Under fear, agents reduce computation, shorten time horizons, and shift from reflective evaluation toward rapid alignment or reflexive reaction.
-
-Examples of high-compressibility conditions include:
-
-- collective fear
-- perceived external threat
-- panic under uncertainty
-- rapid moralized enemy formation
-- emergency-like group synchronization
-
-In high-compressibility environments:
-
-    High C → rapid pressure contraction → sharp local gradients → higher fracture probability
-
-By contrast, low-compressibility pressures may remain distributed for longer periods, allowing diffusion, delay, and adaptive redistribution.
-
-### 2.7 Update: Definition of Social Compressibility (C)
-
-Social compressibility $C$ is not merely a tendency for individuals to conform.
-
-Instead, it represents a cognitive strategy for reducing computational overload.
-When individuals face excessive information, they rely on shared schemas to minimize decision cost.
-
-$$
-C \approx \frac{Information\ Overload}{Schema\ Adoption}
-$$
-
-**Fragmentation in Modern Information Environments:**
-In high-information environments:
-
-    Information ↑
-    Shared schemas ↓
-
-As a result:
-- large-scale national synchronization becomes difficult
-- compression occurs only in small clusters (e.g., online echo chambers, tribal information communities)
-
-**Implication for Social Fracture:**
-Weak large-scale $C$ means pressure rarely aggregates at the societal level. Instead, pressure directly impacts individuals.
-
-    Pressure \rightarrow Individual Node
-
-This results in distributed micro-fractures such as burnout, social withdrawal, and mental health collapse, rather than collective revolutions.
-
-### 2.8 Stability Phase Relationship & Pressure Reservoir
-
-The interaction between social viscosity (V) and social compressibility (C) can be conceptually represented as a stability phase relationship. High viscosity diffuses pressure across relational networks, while high compressibility condenses pressure rapidly under stress.
+* **Social Viscosity ($V$):** Relational bonds that allow pressure to diffuse.
+    * `High V → pressure diffusion → lower fracture probability`
+* **Social Compressibility ($C$):** The degree to which pressure rapidly condenses under stress. It is a cognitive strategy for reducing computational overload via shared schemas.
+    * `High C → rapid pressure contraction → higher fracture probability`
 
 ![Stability Phase Diagram](figure_phase.png)
-
-Social systems can be interpreted as pressure reservoirs in which accumulated pressures interact with amplification, diffusion, and compression mechanisms.
-
 ![Pressure Reservoir Model](figure_pressure_reservoir.png)
 
-### 2.9 Pressure as Forced Recalculation
+### 2.5 Pressure as Forced Recalculation
+Pressure gradients ($\nabla p$) emerge from computational overload caused by unpredictability. When unexpected events invalidate existing schemas, the brain is forced into full-system recalculation.
 
-In Protected Set Theory, pressure gradients (∇p) are not primarily generated by dissatisfaction or emotional distress.
+$$\nabla p \propto Unpredictability$$
 
-Instead, pressure emerges from computational overload caused by unpredictability.
+### 2.6 Pressure Shock (S)
+In addition to the magnitude of pressure, the **rate of change of pressure** affects stability.
 
-Human cognitive systems operate using predictive schemas — compressed internal models that reduce computational effort when interpreting reality.
+$$S = \frac{d(\nabla p)}{dt}$$
 
-When unexpected events invalidate these schemas, the brain is forced into full-system recalculation.
+Rapid pressure changes invalidate schemas and force full-system recalculation, generating cognitive overload, panic alignment, and increased compressibility ($C$). Even moderate pressure levels can generate fracture when pressure shock ($S$) is high.
 
-Therefore pressure can be approximated as:
+### 2.7 Temporal Dynamics of Pressure
+Pressure in social systems accumulates and dissipates over time. Let $P(t)$ represent accumulated structural pressure.
 
-**Conceptual approximation:**
-```text
-∇p ∝ Unpredictability
-```
+$$\frac{dP}{dt} = Input - V \cdot P$$
 
-Unpredictability forces:
-- schema invalidation
-- full cognitive recomputation
-- spikes in metabolic and cognitive cost
+Thus, structural fracture risk over time can be conceptually approximated as:
 
-When pressure increases, agents tend to reduce computational burden through strong narratives ($U$) and social conformity ($C$). Thus, $U$ reduces uncertainty by providing narrative meaning structures, while $C$ reduces computation through collective alignment.
-
-### 2.10 Pressure Shock (S)
-
-**Definition:**
-```text
-S = d(∇p) / dt
-```
-
-$S$ represents the speed at which structural pressure gradients change.
-
-Human cognitive systems adapt well to gradual pressure changes.  
-However rapid pressure variation invalidates schemas and forces full-system recalculation.
-
-High $S$ therefore produces:
-- cognitive overload
-- fear responses
-- panic alignment
-- increased compressibility ($C$)
-
-Even moderate pressure levels can therefore generate fracture when pressure shock is high.
-
-### 2.11 Temporal Dynamics of Pressure
-
-**Dynamic structural relation:**
-```text
-dP/dt = Input - V * P
-```
-
-Where:
-- $P(t)$ — accumulated structural pressure
-- $Input$ — environmental, economic, or algorithmic pressure entering the system
-- $V$ — social viscosity diffusing accumulated pressure
-
-**Auxiliary conceptual approximations:**
-```text
-Action Energy ≈ U × P
-Local Pressure ≈ C × P
-```
-
-**Conceptual structural approximation for overall risk:**
-```text
-Fracture Risk(t) ∝ (∇p · U · C · S) / V
-```
-
-This expression represents a structural tendency rather than a predictive physical equation.
-
-### 2.12 Decomposition of U (Upward Correction Constant)
-
-At the abstract level, $U$ denotes upward correction energy resisting entropy in human systems.
-
-At the social-analytic level, $U$ can be decomposed into three components operating across different temporal scales.
-
-$$
-U = U_{reward} + U_{bond} + U_{ideal}
-$$
-
-**$U_{reward}$ — Short-Term Reward U**
-Examples: social media reactions, KPI-based evaluation, entertainment consumption.
-Time scale: minutes → days  
-Volatility: extremely high  
-Function: pressure release  
-
-Important distinction:
-
-U_reward ≠ Progress Energy
-
-**$U_{bond}$ — Relational U**
-Examples: family, friendship, trust networks.
-Time scale: decades  
-Volatility: low  
-Function: generation of social viscosity  
-$U_{bond}$ is the primary source of relational cohesion and contributes directly to the formation of $V$.
-
-**$U_{ideal}$ — Ideological Mobilization U**
-Examples: religion, national identity, revolutionary ideology.
-Time scale: generations → centuries  
-Volatility: extremely low  
-Function: large-scale mobilization  
-
-**Modern societies exhibit the following structural imbalance:**
-$$
-U_{reward} \gg U_{ideal}
-$$
-
-**Implications:**
-Pressure is continuously dissipated, and collective mobilization energy cannot accumulate. This structural imbalance explains why modern societies often exhibit stable stagnation rather than large-scale revolution.
+$$Fracture\ Risk(t) \approx \frac{\nabla p(t) \times U(t) \times C(t) \times S(t)}{V(t)}$$
 
 ---
 
-## 3. The Upward Correction Constant (U)
+## 3. Biological Limits and AI Friction
 
-Human systems require a minimal narrative bias against entropy.
+### 3.1 The Upward Correction Constant (U)
+Human systems require a minimal narrative bias against entropy (motivational decay and structural fragmentation). 
+$$U \ge Entropy_{drift}$$
 
-**Conceptual condition:**
-```text
-U ≥ Entropy_drift
-```
+### 3.2 Biological Viscosity Limit ($V_{min}$)
+Human societies historically avoided systemic collapse not because humans were morally restrained, but because biological limits (fatigue, sleep cycles, attention depletion) impose natural friction.
 
-Where:
-`Entropy_drift` represents the natural tendency toward disengagement, motivational decay, and structural fragmentation.
+$$V \ge V_{min}$$
 
-This upward correction allows: Hope, Risk-taking, Cultural persistence, Civilizational continuity.
+### 3.3 AI as a Frictionless Optimizer
+Artificial intelligence systems lack biological damping mechanisms. They do not experience fatigue or sleep cycles.
 
-However, excessive upward bias under high pressure gradients can amplify destructive acceleration. Modern systems often reduce upward correction while increasing pressure gradients — producing what may be described as structural fracture.
+$$V_{AI} \approx 0$$
 
-### 3.1 Biological Viscosity Limit ($V_{min}$)
+AI optimization therefore resembles a frictionless system in which pressure gradients may increase without natural damping. **The primary danger of AI is not malevolence but frictionless optimization.** Without structural limits, optimization processes may generate pressure gradients and pressure shocks ($S$) faster than human systems can absorb them.
 
-Human societies historically avoided systemic collapse not because humans were morally restrained, but because biological limits impose natural friction.
+---
 
-These include:
-- fatigue
-- attention depletion
-- boredom
-- sleep cycles
-- metabolic limits
+## 4. The Protected Set
 
-**Formal constraint:**
-$$
-V \ge V_{min}
-$$
-
-### 3.2 AI as a Frictionless Optimizer
-
-Artificial intelligence systems lack biological damping mechanisms.
-
-AI systems do not experience:
-- fatigue
-- attention exhaustion
-- emotional saturation
-- sleep cycles
-
-Therefore:
-$$
-V_{AI} \approx 0
-$$
-
-AI optimization therefore resembles a frictionless system in which pressure gradients may increase without natural damping.
-
-The primary danger of AI is therefore not malevolence but frictionless optimization.
-Without structural limits, optimization processes may generate pressure gradients faster than human systems can absorb them.
-
-**Engineering Implication:**
 Because AI lacks intrinsic damping mechanisms, external structural safety constraints must be implemented. This is the function of the Protected Set.
 
----
-
-## 4. Structural Pathologies of High-Speed Evaluation Systems
-
-Contemporary digital and economic systems introduce:
-
-- KPI-based coercion of correctness
-- Asymmetric load amplification (1-to-n algorithmic pressure)
-- Accelerated conformity dynamics
-
-In such systems, destruction may occur not through explicit malice but through intensified compliance.
-
-This extends Arendt’s “banality of evil” toward a structural **banality of good** —  
-where adherence to rules and performance metrics generates collapse.
-
-The objective of this framework is not to define morality,
-but to describe the structural conditions under which destructive outcomes become likely.
-
-By treating moral emergence as pressure interaction rather than ideological conflict,
-the theory reframes social stability as a problem of pressure regulation rather than moral alignment.
-
----
-
-## 5. The Protected Set
-
-The Protected Set is not moral governance.
-
-It is a **minimal structural constraint** preventing irreversible fracture.
+The Protected Set is not moral governance. It is a **minimal structural constraint** preventing irreversible fracture.
 
 ### Core Properties
-
 1. It does not judge intention.
 2. It does not optimize virtue.
 3. It does not determine correctness.
 4. It prevents irreversible collapse.
 
-### Minimal Constraints
-
-- Non-violation of autonomous boundary
-- Prevention of irreversible structural damage
-
-A barrier is not authority.  
-It does not command.  
-It simply exists.
-
----
-
-## 6. AI Implementation Layer
-
-Direct biological implementation in humans is impossible.
-
-Therefore, Protected Set constraints must be instantiated at the structural output layer of systems such as:
-
-- AI models
-- Organizational management systems
-- Platform governance architectures
-
-Existing AI mechanisms already function as Protected Sets:
+### AI Implementation Layer
+Existing AI safety mechanisms already function as practical instantiations of Protected Sets:
 
 | Mechanism | Structural Function |
 |-----------|--------------------|
@@ -506,21 +159,18 @@ Existing AI mechanisms already function as Protected Sets:
 | Prompt isolation | Schema integrity preservation |
 | Interruptibility | Circuit-breaker under abnormal acceleration |
 
-These mechanisms do not evaluate morality.  
-They constrain structural fracture.
+These mechanisms do not evaluate morality. They constrain structural fracture.
 
 ---
 
-## 7. Non-Dogmatic Constraint Principle
+## 5. Non-Dogmatic Constraint Principle
 
 A barrier must not be absolute.
-
 - A perfectly rigid fence halts adaptation.
 - No fence enables collapse.
 - Optimal stability requires adjustable constraint.
 
 Protected Sets must be:
-
 - Minimal
 - Reversible
 - Non-ideological
@@ -528,26 +178,21 @@ Protected Sets must be:
 
 ---
 
-## 8. Equality Before the Barrier
+## 6. Equality Before the Barrier
 
 Before structural constraints:
-
 - Humans and AI are equally limited.
 - Authority holders and subordinates are equally bounded.
 - Designers and users are equally constrained.
 
-The question is not:
-“Who guards the guardians?”
-
-The question is:
-“Does the barrier exist?”
+The question is not: “Who guards the guardians?”
+The question is: **“Does the barrier exist?”**
 
 ---
 
 ## Conclusion
 
 Civilizational sustainability does not depend on perfect moral reasoning.
-
 It depends on preventing irreversible structural fracture under accelerating pressure gradients.
 
 The barrier does not judge.  
