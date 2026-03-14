@@ -90,9 +90,6 @@ System stability is strongly influenced by the relationship between viscosity an
 * **Social Compressibility ($C$):** The degree to which pressure rapidly condenses under stress. It is a cognitive strategy for reducing computational overload via shared schemas.
     * `High C → rapid pressure contraction → higher fracture probability`
 
-![Stability Phase Diagram](figure_phase.png)
-![Pressure Reservoir Model](figure_pressure_reservoir.png)
-
 ### 2.5 Pressure as Forced Recalculation
 Pressure gradients ($\nabla p$) emerge from computational overload caused by unpredictability. When unexpected events invalidate existing schemas, the brain is forced into full-system recalculation.
 
@@ -106,11 +103,7 @@ $$S = \frac{d(\nabla p)}{dt}$$
 Rapid pressure changes invalidate schemas and force full-system recalculation, generating cognitive overload, panic alignment, and increased compressibility ($C$). Even moderate pressure levels can generate fracture when pressure shock ($S$) is high.
 
 ### 2.7 Temporal Dynamics of Pressure
-Pressure in social systems accumulates and dissipates over time. Let $P(t)$ represent accumulated structural pressure.
-
-$$\frac{dP}{dt} = Input - V \cdot P$$
-
-Thus, structural fracture risk over time can be conceptually approximated as:
+Pressure in social systems accumulates and dissipates over time. Structural fracture risk over time can be conceptually approximated as:
 
 $$Fracture\ Risk(t) \approx \frac{\nabla p(t) \times U(t) \times C(t) \times S(t)}{V(t)}$$
 
