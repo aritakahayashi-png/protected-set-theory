@@ -102,11 +102,6 @@ $$S = \frac{d(\nabla p)}{dt}$$
 
 Rapid pressure changes invalidate schemas and force full-system recalculation, generating cognitive overload, panic alignment, and increased compressibility ($C$). Even moderate pressure levels can generate fracture when pressure shock ($S$) is high.
 
-### 2.7 Temporal Dynamics of Pressure
-Pressure in social systems accumulates and dissipates over time. Structural fracture risk over time can be conceptually approximated as:
-
-$$Fracture\ Risk(t) \approx \frac{\nabla p(t) \times U(t) \times C(t) \times S(t)}{V(t)}$$
-
 ---
 
 ## 3. Biological Limits and AI Friction
