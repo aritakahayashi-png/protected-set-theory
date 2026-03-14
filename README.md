@@ -171,7 +171,7 @@ Therefore, they often behave not as viscosity sources but as pressure amplifiers
 
 **Conceptual qualitative tendency:**
 ```text
-Stability ∝ V / (∇p × C)
+System Stability ∝ V / (∇p · C)
 ```
 Higher viscosity diffuses pressure across relational networks, while higher compressibility concentrates pressure rapidly under stress.
 
@@ -336,7 +336,7 @@ Local Pressure ≈ C × P
 
 **Conceptual structural approximation for overall risk:**
 ```text
-Fracture Risk(t) ≈ (∇p × U × C × S) / V
+Fracture Risk(t) ∝ (∇p · U · C · S) / V
 ```
 
 This expression represents a structural tendency rather than a predictive physical equation.
@@ -357,10 +357,9 @@ Time scale: minutes → days
 Volatility: extremely high  
 Function: pressure release  
 
-**Important distinction:**
-$$
-U_{reward} \ne Progress\ Energy
-$$
+Important distinction:
+
+U_reward ≠ Progress Energy
 
 **$U_{bond}$ — Relational U**
 Examples: family, friendship, trust networks.
