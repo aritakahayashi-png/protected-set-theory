@@ -721,6 +721,8 @@ Therefore, in computational terms:
 
 V_AI ≈ 0
 
+Thus optimization pressure in AI systems can increase indefinitely unless externally constrained.
+
 This creates a new systemic risk.
 
 AI systems may pursue optimization indefinitely without natural damping mechanisms.
