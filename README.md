@@ -405,6 +405,50 @@ High values of \(S\) therefore generate:
 
 Thus even moderate pressure levels can produce structural fracture if pressure shock is sufficiently high.
 
+### Temporal Dynamics of Pressure
+
+Pressure in social systems accumulates and dissipates over time.
+
+Let \(P(t)\) represent accumulated structural pressure.
+
+\[
+\frac{dP}{dt} = Input - V P
+\]
+
+Where:
+
+Input represents environmental, economic, or algorithmic pressures entering the system.
+
+\(V\) represents social viscosity that diffuses accumulated pressure across relational networks.
+
+Narrative amplification converts stored pressure into behavioral energy:
+
+\[
+Action\ Energy \approx U \times P
+\]
+
+Social compressibility concentrates this pressure:
+
+\[
+Local\ Pressure \approx C \times P
+\]
+
+Rapid changes in pressure gradients generate **pressure shock**:
+
+\[
+S = \frac{d(\nabla p)}{dt}
+\]
+
+Thus structural fracture risk over time can be conceptually approximated as:
+
+\[
+Fracture\ Risk(t) \approx
+\frac{\nabla p(t) \times U(t) \times C(t) \times S(t)}{V(t)}
+\]
+
+This formulation is conceptual rather than strictly mathematical.  
+Its purpose is to describe dynamic structural tendencies in pressure-driven social systems.
+
 2.X Decomposition of U (Upward Correction Constant)
 
 The upward correction constant 
