@@ -446,6 +446,8 @@ Fracture\ Risk(t) \approx
 \frac{\nabla p(t) \times U(t) \times C(t) \times S(t)}{V(t)}
 \]
 
+This expression represents a conceptual structural relationship rather than a predictive physical equation.
+
 This formulation is conceptual rather than strictly mathematical.  
 Its purpose is to describe dynamic structural tendencies in pressure-driven social systems.
 
@@ -803,7 +805,7 @@ Therefore, in computational terms:
 
 V_AI ≈ 0
 
-Thus optimization pressure in AI systems can increase indefinitely unless externally constrained.
+Thus AI optimization dynamics resemble a frictionless system in which pressure gradients can increase without natural damping.
 
 This creates a new systemic risk.
 
