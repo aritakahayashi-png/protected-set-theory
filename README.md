@@ -653,6 +653,18 @@ Rather than collective revolutions.
 Human behavior does not operate under strict physical calculation.
 Motivation requires an upward bias relative to objective entropy. 
 
+This condition can be expressed conceptually as:
+
+\[
+U \ge Entropy_{drift}
+\]
+
+Where:
+
+Entropy_drift represents the natural tendency of human systems toward motivational decay, disengagement, and structural fragmentation.
+
+The upward correction constant \(U\) provides the minimal narrative or motivational bias required for agents to act against this entropic tendency.
+
 This upward correction allows:
 
 - Hope
