@@ -392,50 +392,9 @@ To clarify system dynamics,
 𝑈
 U is decomposed into three components.
 
-𝑈
-=
-𝑈
-𝑟
-𝑒
-𝑤
-𝑎
-𝑟
-𝑑
-+
-𝑈
-𝑏
-𝑜
-𝑛
-𝑑
-+
-𝑈
-𝑖
-𝑑
-𝑒
-𝑎
-𝑙
-U=U
-reward
-	​
-
-+U
-bond
-	​
-
-+U
-ideal
-	​
-
-𝑈
-𝑟
-𝑒
-𝑤
-𝑎
-𝑟
-𝑑
-U
-reward
-	​
+\[
+U = U_{reward} + U_{bond} + U_{ideal}
+\]
 
  — Short-Term Reward U
 
@@ -458,6 +417,16 @@ Function: pressure release
 This form of 
 𝑈
 U acts primarily as pressure dissipation and rarely accumulates into collective action.
+
+Important distinction:
+
+\[
+U_{reward} \ne Progress\ Energy
+\]
+
+Short-term reward narratives may relieve pressure, but they do not generate the long-term energy required for civilizational progress.
+
+They function primarily as **pressure dissipation mechanisms**, not as drivers of structural transformation.
 
 𝑈
 𝑏
@@ -546,28 +515,9 @@ Implication for Modern Societies
 
 Modern societies exhibit the following structural imbalance:
 
-𝑈
-𝑟
-𝑒
-𝑤
-𝑎
-𝑟
-𝑑
-≫
-𝑈
-𝑖
-𝑑
-𝑒
-𝑎
-𝑙
-U
-reward
-	​
-
-≫U
-ideal
-	​
-
+\[
+U_{reward} \gg U_{ideal}
+\]​
 
 High-frequency reward narratives circulate rapidly while long-term ideological reservoirs weaken.
 
